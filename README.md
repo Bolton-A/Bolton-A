@@ -1,3 +1,5 @@
+# Aine Bolton - @bolton-a
+
 Hello there! I am Aine Bolton! I'm a student studying Computer Information Systems (CIS). My primary interests are in Data Science, Machine Learning, and Artificial
 Intelligence and I am working on expanding my programming skills in the following languages:
 - Python
